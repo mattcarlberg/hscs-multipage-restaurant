@@ -1,0 +1,23 @@
+ nav{
+  background-color: green;
+  font-size: 1.5em;
+}
+
+nav a{
+  color: white;
+  text-decoration: none;
+}
+
+nav ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: right;
+}
+
+nav li{
+  padding: 20px;
+}
+
+nav li:hover{
+  background-color: blue;
+}
